@@ -1,0 +1,1 @@
+# Apendix-A-Sample-of-manifest-file-from-Jadx
